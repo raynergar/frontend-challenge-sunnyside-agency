@@ -1,0 +1,7 @@
+.nav__link:nth-last-child(1){
+        font-family: var(--font1);
+        color: var(--Very-dark-desaturated-blue);
+        padding: 1em 1.5em;
+        border-radius: 30px;
+        background-color: var(--White);
+    }
